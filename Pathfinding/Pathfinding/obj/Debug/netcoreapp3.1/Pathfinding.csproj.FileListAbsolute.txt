@@ -1,0 +1,13 @@
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.exe
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.deps.json
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.runtimeconfig.json
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.runtimeconfig.dev.json
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.dll
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\bin\Debug\netcoreapp3.1\Pathfinding.pdb
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.csprojAssemblyReference.cache
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.AssemblyInfoInputs.cache
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.AssemblyInfo.cs
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.dll
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.pdb
+C:\Users\julian.thunellaxnas\source\repos\Pathfinding\Pathfinding\obj\Debug\netcoreapp3.1\Pathfinding.genruntimeconfig.cache
